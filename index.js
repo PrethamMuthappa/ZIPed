@@ -34,12 +34,6 @@ button.addEventListener('click',()=>{
   stateval.innerHTML=state;
   lat.innerHTML=latitude;
   long.innerHTML=longitude;
-  
-
- 
-   
-   
-   
    
 
  }
