@@ -1,5 +1,5 @@
 # ZIPed
-a simple website for showing the city , state,latidude and longitude when entered the zip code , this webpage was built using zippopotam's API <br>
+a website for showing the city ,state,latidude and longitude when entered the zip code , this webpage was built using zippopotam's API <br>
 
 The website was created using HTML , tailwindCSS , and javascript ,animations for the website was done using the gsap library <br>
 
